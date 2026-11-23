@@ -55,58 +55,32 @@ configuration.
 demands.
 
 Snap Shot:
+<img width="1915" height="1025" alt="Screenshot 2026-10-29 152646" src="https://github.com/user-attachments/assets/3c0db533-f76d-4b75-bf84-c10bc8ee3928" />
 
  
 
 Snapshot 1: Create VPC
- 
+ <img width="1917" height="997" alt="Screenshot 2026-10-29 152747" src="https://github.com/user-attachments/assets/36080b17-e71a-4641-933c-4061c0ac2cdc" />
+
 Snapshot 2: Configuring Subnets
- 
+ <img width="1917" height="1020" alt="Screenshot 2026-10-29 152941" src="https://github.com/user-attachments/assets/c449df17-2ad7-4554-9cff-62fe1f7e25b1" />
+
 
 Snapshot 3: Configure Subnets
- 
+ <img width="1916" height="1021" alt="Screenshot 2026-10-29 153340" src="https://github.com/user-attachments/assets/90dcdb4b-c2a4-4d7b-a940-0dda2324f912" />
+
 
 Snapshot 4: Setting Internet gateway
+<img width="1920" height="1080" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/f0906b55-e2aa-42bd-bf25-3e91cddaba75" />
 
  
 Snapshot 5: Setting Internet gateway
-
-
-
- 
-
-Snapshot 6: Setting Internet gateway
-
- 
-Snapshot 7: Creating route table
-
- 
-
-Snapshot 8: Configuring route table
-
-
- 
-Snapshot 9: Editing routes
-
- 
-Snapshot 10: Creating route table
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/355ebab2-a8b6-4ba3-bf5c-d84062ca914a" />
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/61a26124-0b56-472d-af8d-55fcae004311" />
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/3bff369e-604b-4c74-9df5-952b655ca9b6" />
+<img width="1920" height="1080" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/f2f61343-0e3e-490c-bcf7-a533a0fb9494" />
+<img width="1920" height="1080" alt="Screenshot (39)" src="https://github.com/user-attachments/assets/5b9cc389-a4bb-4c0a-a717-7e7658799439" />
+<img width="1920" height="1080" alt="Screenshot (40)" src="https://github.com/user-attachments/assets/6deea5bf-41d9-4eff-8c16-56d52371b059" />
 
 
 Result:
